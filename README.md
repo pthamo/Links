@@ -3,6 +3,14 @@ Links to open source intelligence - for reverse engineering, research and projec
 
 ---
 
+## 📑 PDF's
+
+## 152 PDFs AS OF 30.09.2026 | 16:07
+
+https://drive.google.com/drive/folders/1l24zM8p9lFODyg2C11yvtUbWep475ZKY?usp=sharing
+
+---
+
 ## 🌐 Websites
 
 - **[Coddy](https://coddy.tech/)**
